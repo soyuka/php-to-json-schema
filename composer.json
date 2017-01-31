@@ -1,5 +1,5 @@
 {
-  "name": "dunglas/php-to-json-schema",
+  "name": "soyuka/php-to-json-schema",
   "type": "library",
   "description": "Generate a JSON schema from a PHP entity",
   "keywords": ["php", "json schema", "json", "entity", "validation"],
@@ -13,7 +13,7 @@
   ],
   "require": {
     "php": ">=7.0",
-    "symfony/property-info": "~2.8|~3.0"
+    "symfony/property-info": "^3.0"
   },
   "require-dev": {
     "phpdocumentor/reflection": "^1.0.7"
